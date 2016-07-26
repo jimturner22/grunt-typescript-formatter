@@ -20,6 +20,7 @@ In your project's Gruntfile, add a section named `typescript-formatter` to the d
 	  'typescript-formatter': {
 	    options: {
     	  // Task-specific options go here.
+        // For the Options interface, see https://github.com/vvakame/typescript-formatter/blob/master/lib/index.ts
 	    },
 	    files: {
     	  // Files to format go here
